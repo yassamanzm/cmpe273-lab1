@@ -1,2 +1,2 @@
 # cmpe273-lab1
-This repository contains lab assignments of CMPE 273, Enterprise Distributed Systems.
+This repository contains the first lab assignment of CMPE 273, Enterprise Distributed Systems.
